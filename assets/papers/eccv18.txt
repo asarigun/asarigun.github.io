@@ -1,7 +1,0 @@
-@InProceedings{Kocabas_2018_ECCV,
-author = {Kocabas, Muhammed and Karagoz, Salih and Akbas, Emre},
-title = {MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network},
-booktitle = {The European Conference on Computer Vision (ECCV)},
-month = {September},
-year = {2018}
-}
